@@ -1,0 +1,21 @@
+# Core LiveKit dependencies
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+livekit-plugins-deepgram
+livekit-plugins-tavus
+livekit-plugins-elevenlabs
+livekit-plugins-rime
+livekit-plugins-turn-detector
+
+# Environment and utility dependencies
+python-dotenv
+
+# Standard library dependencies (included with Python)
+# logging - built-in
+# json - built-in
+# uuid - built-in
+# dataclasses - built-in (Python 3.7+)
+# pathlib - built-in (Python 3.4+)
+# typing - built-in (Python 3.5+)
+# asyncio - built-in (Python 3.4+)
