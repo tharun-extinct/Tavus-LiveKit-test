@@ -1,0 +1,44 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+# Additional Python virtual environment patterns
+*venv*/
+*virtualenv*/
+.Python
+bin/
+include/
+lib/
+lib64/
+share/
+pyvenv.cfg
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local development settings
+.env
+env/
+.env.local
+.env.*.local
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
